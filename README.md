@@ -1,7 +1,9 @@
 BSCS Student
 
 # 💫 About Me:
-Gabbae is my name<br>Dota is my game
+I also enjoy exploring new technologies through experimentation and vibe coding. Sometimes that means starting with an idea, using AI to help bring it to life, then going through the code myself to understand, improve, and make it work the way I want.
+
+I'm still figuring out which areas of technology I want to specialize in, so for now, I'm focused on building, learning, and exploring as much as I can.
 
 
 # 💻 Tech Stack:
